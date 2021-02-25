@@ -75,6 +75,6 @@ accuracy: 0.9770
  0.08533701 0.08533834 0.08533737 0.08533701]
 
 
-[histogram](C:\Users\User\Pictures\data 310 histogram.png)
+![histogram](C:\Users\User\Pictures\histogram.png)
 
 1
