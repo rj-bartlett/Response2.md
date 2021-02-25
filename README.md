@@ -75,6 +75,6 @@ accuracy: 0.9770
  0.08533701 0.08533834 0.08533737 0.08533701]
 
 
-![histogram](C:\Users\User\Pictures\histogram.png)
+[histogram](https://github.com/rj-bartlett/Response2.md/issues/1#issue-816795732)
 
-1
+Test label = 1
