@@ -68,11 +68,13 @@ print(y_test[5])
 ```
 OUTPUT:
 Reached 99% accuracy so cancelling training!
-313/313 [==============================] - 1s 3ms/step - loss: 0.0791 - accuracy: 0.9770
+313/313 [==============================] - 1s 3ms/step - 
+loss: 0.0791 
+accuracy: 0.9770
 [0.08533701 0.23196515 0.08533701 0.08533701 0.08533712 0.08533701
  0.08533701 0.08533834 0.08533737 0.08533701]
 
 
-
+[histogram](C:\Users\User\Pictures\data 310 histogram)
 
 1
